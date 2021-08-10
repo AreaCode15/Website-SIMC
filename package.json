@@ -1,0 +1,12 @@
+{
+  "name": "SIMC",
+  "version": "1.0",
+  "description": "Website Responsive SIMC",
+  "main": "index.html",
+  "author": "SIMC",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://simc-france.fr"
+}
